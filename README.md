@@ -1,15 +1,16 @@
-#####This repo contains the code for programing exercises in my textbooks.
+*##Code for programing exercises in textbooks*
 :heart_eyes: :heart_eyes: :heart_eyes:
 
 
 ###Textbooks included
-*`(PDF)` at the end of the textbook name indicates that you can find a download url of the PDF version of this textbook in corresponding directory.*
 
-- Introduction To Java Programing Comprehensive Version 10th Edition `(PDF)`
+- Introduction To Java Programing Comprehensive Version 10th Edition 
+
+    `PDF: http://pan.baidu.com/s/1i3i3Ybr`
 
 
 ###Update info
 
 - Introduction To Java Programing Comprehensive Version 10th Edition
 
-  up to Chapter01/PE07
+  up to Chapter01 PE07
