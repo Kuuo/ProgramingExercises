@@ -3,9 +3,9 @@
 
 
 ###Textbooks included
-`(PDF)` at the end of the textbook name indicates that a pdf version of this textbook is available, you can find the download link in corresponding directory.
+*`(PDF)` at the end of the textbook name indicates that a pdf version of this textbook is available, you can find the download url in corresponding directory.*
 
-- Introduction To Java Programing Comprehensive Version 10th Edition (PDF)
+- Introduction To Java Programing Comprehensive Version 10th Edition `(PDF)`
 
 
 ###Update info
