@@ -1,16 +1,15 @@
 #####This repo contains some program code of promgraming exercises in my textbooks.
 :heart_eyes: :heart_eyes: :heart_eyes:
 
-**All code is written by myself, no copy.**
 
 ###Textbooks included
-'(PDF)' at the end of the textbook name indicates that there's a pdf file of this textbook in correspoding directory.
+`(PDF)` at the end of the textbook name indicates that a pdf version of this textbook is available, you can find the download link in corresponding directory.
 
-- IntroductionToJavaPrograming_ComprehensiveVersion_10thEdition (PDF)
+- Introduction To Java Programing Comprehensive Version 10th Edition (PDF)
 
 
 ###Update info
 
-- IntroductionToJavaPrograming_ComprehensiveVersion_10thEdition
+- Introduction To Java Programing Comprehensive Version 10th Edition
 
   up to Chapter01/PE07
