@@ -18,8 +18,8 @@
 
 - Introduction To Java Programing Comprehensive Version 10th Edition
 
-  up to Chapter 2, #16
+  up to Chapter 02, #16
 
 - C# Programming And Applications (3rd Edition)
 
-  up to Chapter 2, #08
+  up to Chapter 02, #07
