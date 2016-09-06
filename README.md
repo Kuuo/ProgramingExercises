@@ -21,4 +21,4 @@
 
 - C# Programming And Applications (3rd Edition)
 
-  up to Chapter 02, #07
+  up to Chapter 03, #03
