@@ -12,7 +12,7 @@
 - C# Programming And Applications (2nd Edition)
 
 
-  `PDF:http://pan.baidu.com/s/1bpDSQXD`
+  `NO PDF FOUND`
 
 ###Update info
 
