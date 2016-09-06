@@ -20,6 +20,6 @@
 
   up to Chapter 2, #16
 
-- C# Programming And Applications (2nd Edition)
+- C# Programming And Applications (3rd Edition)
 
   up to Chapter 2, #08
