@@ -9,7 +9,7 @@
 
     `PDF: http://pan.baidu.com/s/1i3i3Ybr`
 
-- C# Programming And Applications (2nd Edition)
+- C# Programming And Applications (3rd Edition)
 
 
   `NO PDF FOUND`
